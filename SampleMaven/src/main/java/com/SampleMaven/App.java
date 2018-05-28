@@ -7,6 +7,8 @@ public class App {
 		
 		System.out.println("Hi Jenkins!!");
 		System.out.println("Hi Jenkins Again!!");
+		System.out.println("Hi Jenkins!!");
+		System.out.println("Hi Jenkins Again!!");
 
 	}
 
